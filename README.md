@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-
+<hr>
 <div align="center">
     <img src="./nasral.gif" width="800" height="200"/>
 </div>
