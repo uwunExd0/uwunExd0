@@ -1,37 +1,5 @@
 <div align="center">
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-</div>
-
-<div align="center">
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
-    <img src="./hryu.gif" width="50" height="50"/>
+    <img src="./nasral.gif" width="800" height="200"/>
 </div>
 <h1 align="center">здесь ауне смачно какает</h1>
 <div align="center">
@@ -40,10 +8,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 </div>
 
-<hr>
-<div align="center">
-    <img src="./nasral.gif" width="800" height="200"/>
-</div>
+
+
 
 
 
